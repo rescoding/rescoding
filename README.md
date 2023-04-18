@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there I'm Aprilia
++
+## About Me:
+- Nama                : Aprilia Angelika Dalapan
+- Alamat              : Kampung Talengen
+- Tempat, Tgl Lahir   : Manado, 07 April 2003
+- Jenis Kelamin       : Perempuan
+- Status              : Lajang
+- Email               : apriliadalapan03@gmail.com
+- Nomor Telepon       : 08221739****
 
-<!--
-**rescoding/rescoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education:
 
-Here are some ideas to get you started:
+## 1. [Politeknik Negeri Nusa Utara] | [Sistem Informasi] | [ Manganitu "2021-Sekarang]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 2. [SMKN 1 Tahuna] | TKJ | Tahuna "2018-2021"
+
+<br />
+<br />
